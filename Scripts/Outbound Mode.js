@@ -24,8 +24,8 @@ let WHITENAME = [
             "home_ssid2"
     ];
 let BLACKNAME = [
-            "free_ssid1",
-            "free_ssid2"
+            "miemie",
+            "miaomiao"
     ];
 
 //The default outbound, you can change it : 'Direct' or 'Rule' or 'Global-proxy'.
